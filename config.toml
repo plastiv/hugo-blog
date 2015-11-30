@@ -1,4 +1,5 @@
-baseurl = "www.plastiv.github.io"
+baseurl = "https://plastiv.github.io/"
+canonifyurls = true
 languageCode = "en-us"
 title = "Personal blog"
 # Enable comments by entering your Disqus shortname
@@ -74,14 +75,14 @@ theme = "hugo-icarus-theme"
     xing            = ""
     linkedin        = "sergii-pechenizkyi-0b930142"
     slideshare      = ""
-    stackoverflow   = "624706/sergii-pechenizkyi"
+    stackoverflow   = "624706"
     reddit          = ""
     pinterest       = ""
     googleplus      = ""
     facebook        = ""
     facebook_admin  = ""
     twitter_domain  = ""
-    twitter         = "plastiv"
+    twitter         = ""
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
